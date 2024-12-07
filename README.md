@@ -31,7 +31,7 @@ all:
 - [`ft_isascii`](ft_isascii.c) - checks whether the passed character fits into the ASCII character set.
 - [`ft_isprint`](ft_isprint.c) - checks whether the passwd character is printable character.
 - [`ft_tolower`](ft_tolower.c) - converts uppercase letters to lowercase.
-- [`ft_toupper`](ft_touppder.c) - converts lowercase letters to uppercase.
+- [`ft_toupper`](ft_toupper.c) - converts lowercase letters to uppercase.
 
 ### Functions from `<string.h>`
 

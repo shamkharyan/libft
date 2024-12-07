@@ -1,10 +1,10 @@
-# About Libft
+# 📜 About `Libft`
 
 Libft (library of functions) is the first project in 42 Yerevan common core.
 
 In this project, you should implement the basic functions of the C standard library along with other useful functions that you will use in many projects.
 
-## How to use
+## 🔍 How to use
 
 - Add libft repository to the root directory of the project.
 - Go to the libft repository and use `make` command to build the library.
@@ -21,7 +21,7 @@ all:
     gcc -o my_program $(SRC) $(LIBFT)  # Add libft.a during compilation
 ```
 
-## Libft functions
+## 🛠️ Libft functions
 
 ### Functions from `<ctype.h>`
 
@@ -80,7 +80,8 @@ all:
  - [`ft_lstiter`](ft_lstiter.c) - iterates the list and applies the given function on the content of each node.
  - [`ft_lstmap`](ft_lstmap.c) - iterates the list and applies the given function on the content of each node allocating new list.
 
-
+## 🤝 Contributing
+Contributions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
 
  
